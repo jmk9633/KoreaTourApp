@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>937836764670-pugsvadhcm97f2em87tsrbit50kkj9jm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.937836764670-pugsvadhcm97f2em87tsrbit50kkj9jm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5zOeutOByGKoSY8ympuTsgop4h5A8gDw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>937836764670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jmk.KoreaTourApp</string>
+	<key>PROJECT_ID</key>
+	<string>korea-tour-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>korea-tour-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:937836764670:ios:0c298592f87c91c0c4f4af</string>
+	<key>DATABASE_URL</key>
+	<string>https://korea-tour-app.firebaseio.com</string>
+</dict>
+</plist>

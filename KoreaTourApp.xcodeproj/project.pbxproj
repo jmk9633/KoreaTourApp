@@ -12,6 +12,7 @@
 		F9127188245039A7004F3DF4 /* searchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9127187245039A7004F3DF4 /* searchTableViewCell.swift */; };
 		F91BCE812456B6CF006E4669 /* searchDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91BCE802456B6CF006E4669 /* searchDetailViewController.swift */; };
 		F91BCE832456B707006E4669 /* searchDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91BCE822456B707006E4669 /* searchDetailTableViewCell.swift */; };
+		F92528E7248E87EB0090E4A8 /* MainNavBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92528E6248E87EB0090E4A8 /* MainNavBarViewController.swift */; };
 		F9404E6A24423933007B198B /* KoreaTourAppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9404E6924423933007B198B /* KoreaTourAppModel.swift */; };
 		F941E56124421E1A00499F63 /* AttractionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F941E56024421E1A00499F63 /* AttractionViewController.swift */; };
 		F941E56324421E5100499F63 /* AttractionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F941E56224421E5100499F63 /* AttractionTableViewCell.swift */; };
@@ -24,6 +25,8 @@
 		F953A0A7247A715300280890 /* AnotherRegionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F953A0A5247A715300280890 /* AnotherRegionTableViewCell.xib */; };
 		F953A0AA247A74EF00280890 /* AnotherRegionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F953A0A9247A74EF00280890 /* AnotherRegionViewController.swift */; };
 		F98F2DB6244F51D2003EE78B /* infoPhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98F2DB5244F51D2003EE78B /* infoPhotoCollectionViewCell.swift */; };
+		F99CA2A52497DA1C004A961F /* SideMenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99CA2A42497DA1C004A961F /* SideMenuController.swift */; };
+		F9A072AC248E3BCF0009D38F /* CallRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A072AB248E3BCF0009D38F /* CallRequest.swift */; };
 		F9A35D4A243DAF5C00514C67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A35D49243DAF5C00514C67 /* AppDelegate.swift */; };
 		F9A35D4C243DAF5C00514C67 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A35D4B243DAF5C00514C67 /* SceneDelegate.swift */; };
 		F9A35D51243DAF5C00514C67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9A35D4F243DAF5C00514C67 /* Main.storyboard */; };
@@ -46,6 +49,7 @@
 		F9127187245039A7004F3DF4 /* searchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchTableViewCell.swift; sourceTree = "<group>"; };
 		F91BCE802456B6CF006E4669 /* searchDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = searchDetailViewController.swift; path = KoreaTourApp/SearchDetailView/searchDetailViewController.swift; sourceTree = SOURCE_ROOT; };
 		F91BCE822456B707006E4669 /* searchDetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchDetailTableViewCell.swift; sourceTree = "<group>"; };
+		F92528E6248E87EB0090E4A8 /* MainNavBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainNavBarViewController.swift; sourceTree = "<group>"; };
 		F9404E6924423933007B198B /* KoreaTourAppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KoreaTourAppModel.swift; sourceTree = SOURCE_ROOT; };
 		F941E56024421E1A00499F63 /* AttractionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttractionViewController.swift; sourceTree = "<group>"; };
 		F941E56224421E5100499F63 /* AttractionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttractionTableViewCell.swift; sourceTree = "<group>"; };
@@ -58,6 +62,8 @@
 		F953A0A5247A715300280890 /* AnotherRegionTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AnotherRegionTableViewCell.xib; sourceTree = "<group>"; };
 		F953A0A9247A74EF00280890 /* AnotherRegionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherRegionViewController.swift; sourceTree = SOURCE_ROOT; };
 		F98F2DB5244F51D2003EE78B /* infoPhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = infoPhotoCollectionViewCell.swift; path = KoreaTourApp/InfoDataView/infoPhotoCollectionViewCell.swift; sourceTree = SOURCE_ROOT; };
+		F99CA2A42497DA1C004A961F /* SideMenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuController.swift; sourceTree = "<group>"; };
+		F9A072AB248E3BCF0009D38F /* CallRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallRequest.swift; sourceTree = "<group>"; };
 		F9A35D46243DAF5C00514C67 /* Korea Tour App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Korea Tour App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9A35D49243DAF5C00514C67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9A35D4B243DAF5C00514C67 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -185,9 +191,12 @@
 				F98F831A2450156D003BE144 /* MainView */,
 				F9CFDB422445A4D000494AAF /* MainCollectionCellCollectionViewCell.swift */,
 				F9404E6924423933007B198B /* KoreaTourAppModel.swift */,
+				F9A072AB248E3BCF0009D38F /* CallRequest.swift */,
 				F9A35D49243DAF5C00514C67 /* AppDelegate.swift */,
 				F9A35D4B243DAF5C00514C67 /* SceneDelegate.swift */,
 				F9A35D4F243DAF5C00514C67 /* Main.storyboard */,
+				F99CA2A42497DA1C004A961F /* SideMenuController.swift */,
+				F92528E6248E87EB0090E4A8 /* MainNavBarViewController.swift */,
 				F9A35D52243DAF5C00514C67 /* Assets.xcassets */,
 				F9A35D54243DAF5C00514C67 /* LaunchScreen.storyboard */,
 				F9A35D57243DAF5C00514C67 /* Info.plist */,
@@ -216,8 +225,8 @@
 				F9A35D42243DAF5C00514C67 /* Sources */,
 				F9A35D43243DAF5C00514C67 /* Frameworks */,
 				F9A35D44243DAF5C00514C67 /* Resources */,
-				CEC9BC6D054B53BB21513FFA /* [CP] Embed Pods Frameworks */,
 				F9C0B91D246E749F00773453 /* ShellScript */,
+				7191ED24194BEBD11DA1EE54 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -301,7 +310,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		CEC9BC6D054B53BB21513FFA /* [CP] Embed Pods Frameworks */ = {
+		7191ED24194BEBD11DA1EE54 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -344,6 +353,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F953A0AA247A74EF00280890 /* AnotherRegionViewController.swift in Sources */,
+				F99CA2A52497DA1C004A961F /* SideMenuController.swift in Sources */,
 				F9404E6A24423933007B198B /* KoreaTourAppModel.swift in Sources */,
 				F9127188245039A7004F3DF4 /* searchTableViewCell.swift in Sources */,
 				F9CFDB432445A4D000494AAF /* MainCollectionCellCollectionViewCell.swift in Sources */,
@@ -359,7 +369,9 @@
 				F94E884924449BA200E62127 /* InfoDataViewController.swift in Sources */,
 				F9A35D4C243DAF5C00514C67 /* SceneDelegate.swift in Sources */,
 				F953A0A6247A715300280890 /* AnotherRegionTableViewCell.swift in Sources */,
+				F92528E7248E87EB0090E4A8 /* MainNavBarViewController.swift in Sources */,
 				F953A0A2247A395400280890 /* MainHeaderTableViewCell.swift in Sources */,
+				F9A072AC248E3BCF0009D38F /* CallRequest.swift in Sources */,
 				F94E25AC24518631006BB90A /* searchRecommandKeywordTableViewCell.swift in Sources */,
 				F91BCE812456B6CF006E4669 /* searchDetailViewController.swift in Sources */,
 				F9CFDB3F24459EE500494AAF /* MainViewController.swift in Sources */,
@@ -513,7 +525,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 2LSRUZU8A8;
 				INFOPLIST_FILE = KoreaTourApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -535,7 +547,7 @@
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 2LSRUZU8A8;
 				INFOPLIST_FILE = KoreaTourApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
